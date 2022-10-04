@@ -1,6 +1,0 @@
-# This is the Wifi extender.oled Readme.md file.
-# This binary is compiled with Arduino 2.0 and flashable by esptool & other flash utilitys you can download below.
-
-https://github.com/espressif/esptool
-
-https://github.com/nodemcu/nodemcu-flasher
